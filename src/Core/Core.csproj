@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>ApexHack.Core</RootNamespace>
+    <AssemblyName>ApexHack.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
